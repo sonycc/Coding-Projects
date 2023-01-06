@@ -1,0 +1,15 @@
+<-MC4000-1->
+  mov 100 p0
+  slp 1
+  mov 0 p0
+  slp 1
+  
+<-MC4000-2->
+  mov 001 x1
+  slp 6
+  mov 010 x1
+  slp 1
+  mov 100 x1
+  slp 2
+  mov 010 x1
+  slp 1
